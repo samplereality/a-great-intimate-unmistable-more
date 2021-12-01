@@ -1,4 +1,4 @@
-# a-great-intimate-unmistakable-more
+# A Great Intimate Unmistakable More
 
 This is a procedurally-generated erasure of *The Great Gatsby*, which entered the public domain in 2021. And it is also an entry into the 2021 edition of NaNoGenMo. The Python program is a tweaked version of @lizadaly's [black/erasure program](https://github.com/lizadaly/blackout), which she used with great effect in an earlier NaNoGenMo. Check out her [*The Days Left Forebodding and Water*](https://lizadaly.com/projects/blackout/lizadaly-blackout-nanogenmo-2016.pdf). Everything my erasure experiment does, Liza's did, and more effectively! Many thanks to her for letting me adapt her code.
 
