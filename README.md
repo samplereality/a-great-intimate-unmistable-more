@@ -2,6 +2,8 @@
 
 This is a procedurally-generated erasure of *The Great Gatsby*, which entered the public domain in 2021. And it is also an entry into the 2021 edition of NaNoGenMo. The Python program is a tweaked version of @lizadaly's [black/erasure program](https://github.com/lizadaly/blackout), which she used with great effect in an earlier NaNoGenMo. Check out her [*The Days Left Forebodding and Water*](https://lizadaly.com/projects/blackout/lizadaly-blackout-nanogenmo-2016.pdf). Everything my erasure experiment does, Liza's did, and more effectively! Many thanks to her for letting me adapt her code.
 
+The full, procedurally-erased novel is [available as a PDF](https://drive.google.com/file/d/1ZAdKopQP0nhhPblah_VQhzzmiDNWHxsx/view?usp=sharing). I'm calling it *A Great Intimate Unmistakable More* after the erased text on the first page.
+
 Sample images:
 
 ![1_2ea4b](https://user-images.githubusercontent.com/1093156/144169535-2fcc348d-7ebc-4e32-864b-962f5e791d57.png)
